@@ -177,7 +177,7 @@ export default function PulseSensorSim() {
             cursor: "pointer",
           }}
           onClick={() => {
-            window.location.href = "https://smart-patient-admission-bed.vercel.app/beds/1"; // replace "/" with desired link
+            window.location.href = "https://smart-patient-admission-bed.vercel.app/"; // replace "/" with desired link
           }}
         >
           Back
